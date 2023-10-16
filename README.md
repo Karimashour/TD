@@ -10,7 +10,8 @@ https://karimashour.github.io/TD
 4-Javascript <br/>
 5-Bootstrab Framework <br/>
 6-Jquery Library <br/>
-7-Animate CSS 
+7-Animate CSS <br/>
+8-FontAewsome 
 
 # Features Sections Design
 
