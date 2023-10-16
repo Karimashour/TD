@@ -9,9 +9,8 @@ https://karimashour.github.io/TD
 3-Media Query For Responsive Design <br/>
 4-Javascript <br/>
 5-Bootstrab Framework <br/>
-6-Jquery Library <br/>
-7-Animate CSS <br/>
-8-FontAewsome 
+6-Animate CSS <br/>
+7-FontAewsome 
 
 # Features Sections Design
 
