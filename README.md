@@ -5,28 +5,28 @@ https://karimashour.github.io/TD
 # Used Tools
 
 1-HTML5 <br/>
-2-CSS3
-3-Media Query For Responsive Design
-4-Javascript
-5-Bootstrab Framework
-6-Jquery Library
-7-Animate CSS
+2-CSS3 <br/>
+3-Media Query For Responsive Design <br/>
+4-Javascript <br/>
+5-Bootstrab Framework <br/>
+6-Jquery Library <br/>
+7-Animate CSS 
 
 # Features Sections Design
 
--Header Contains Articles,Gallary,Features and Other Links that has megamenu
--Landing
--Articles have 8 titles and if user click Read More will move to another page
--Gallery
--Features , if user click More will move to another page
--Testimonials
--Members
--Services
--Skills
--Works
--Events that contain Countdown Timer to 31/12/2023
--Pricing with plans and if user click Choose Plan button will move to another page
--Videos
--Statistics
--Discount
--Footer
+-Header Contains Articles,Gallary,Features and Other Links that has megamenu <br/>
+-Landing <br/>
+-Articles have 8 titles and if user click Read More will move to another page <br/>
+-Gallery <br/>
+-Features , if user click More will move to another page <br/>
+-Testimonials <br/>
+-Members <br/>
+-Services <br/>
+-Skills <br/>
+-Works <br/>
+-Events that contain Countdown Timer to 31/12/2023 <br/>
+-Pricing with plans and if user click Choose Plan button will move to another page <br/>
+-Videos <br/>
+-Statistics <br/>
+-Discount <br/>
+-Footer <br/>
